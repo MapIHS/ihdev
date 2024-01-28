@@ -32,7 +32,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             const SizedBox(height: 10),
             const Text(
-              'Ihsan Tech',
+              'Ihsan',
               style: TextStyle(
                 fontSize: 50,
                 fontWeight: FontWeight.w600,
