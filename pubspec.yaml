@@ -23,6 +23,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-   - assets/lottiefiles/
    - assets/images/
    - assets/icon/icon.jpeg
